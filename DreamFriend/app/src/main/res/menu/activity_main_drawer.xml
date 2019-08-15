@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_menu_home"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/nav_profil"
+            android:icon="@drawable/ic_menu_profil"
+            android:title="@string/menu_profil" />
+        <item
+            android:id="@+id/nav_kontak"
+            android:icon="@drawable/ic_menu_kontak"
+            android:title="@string/menu_kontak" />
+        <item
+            android:id="@+id/nav_teman"
+            android:icon="@drawable/ic_menu_teman"
+            android:title="@string/menu_teman" />
+    </group>
+    <item android:title="Lainya">
+        <menu>
+            <item
+                android:id="@+id/nav_sign_out"
+                android:icon="@drawable/ic_menu_sign_out"
+                android:title="@string/menu_sign_out" />
+            <item
+                android:id="@+id/nav_Exit"
+                android:icon="@drawable/ic_menu_exit"
+                android:title="@string/menu_Exit" />
+        </menu>
+    </item>
+
+</menu>

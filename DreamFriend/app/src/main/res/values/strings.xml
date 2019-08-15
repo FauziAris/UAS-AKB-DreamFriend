@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Dream Friend</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Dream Friend</string>
+    <string name="nav_header_subtitle">Selamat datang</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_profil">Profil</string>
+    <string name="menu_kontak">Kontak</string>
+    <string name="menu_teman">Daftar Teman</string>
+    <string name="menu_sign_out">Sign Out</string>
+    <string name="menu_Exit">Keluar</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_send">Send</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hallo admin</string>
+    <string name="tambah_teman">Tambah teman</string>
+    <string name="update_teman">Update teman</string>
+    <string name="masukkan_nim">Masukkan NIM</string>
+    <string name="masukkan_nama_teman">Masukkan nama teman</string>
+    <string name="masukkan_kelas">Masukkan kelas</string>
+    <string name="masukkan_no_telepon">Masukkan No Telepon</string>
+    <string name="masukkan_email">Masukkan email</string>
+    <string name="masukkan_instagram">Masukkan instagram</string>
+    <string name="simpan">Simpan</string>
+    <string name="update">Update</string>
+    <string name="lihat_data_teman">Lihat Data Teman</string>
+    <string name="kembali">Kembali</string>
+    <string name="halaman1" />
+    <string name="halaman2" />
+    <string name="halaman3" />
+    <string name="userIg">\@as_fauzi24</string>
+</resources>
